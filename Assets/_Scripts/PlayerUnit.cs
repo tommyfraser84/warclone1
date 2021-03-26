@@ -31,7 +31,6 @@ namespace RTS1.Units.Player
         {
             navMeshAgent = GetComponent<NavMeshAgent>();
 
-
             animator = GetComponent<Animator>();
 
             unitSpeed = basicUnitProperties.Speed/10;
