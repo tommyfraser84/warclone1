@@ -30,19 +30,9 @@ namespace RTS1.Units.Player
         public void Start()
         {
             navMeshAgent = GetComponent<NavMeshAgent>();
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-            
-=======
+
             animator = GetComponent<Animator>();
->>>>>>> parent of 14050af (animation working :D)
-=======
-            animator = GetComponent<Animator>();
->>>>>>> parent of 14050af (animation working :D)
-=======
-            animator = GetComponent<Animator>();
->>>>>>> parent of 14050af (animation working :D)
+
             unitSpeed = basicUnitProperties.Speed/10;
             _animatorDefaultParam = "speed";
         }
