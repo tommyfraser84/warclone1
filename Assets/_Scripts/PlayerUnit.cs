@@ -32,7 +32,11 @@ namespace RTS1.Units.Player
             navMeshAgent = GetComponent<NavMeshAgent>();
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             
+=======
+            animator = GetComponent<Animator>();
+>>>>>>> parent of 14050af (animation working :D)
 =======
             animator = GetComponent<Animator>();
 >>>>>>> parent of 14050af (animation working :D)

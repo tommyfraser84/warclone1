@@ -46,3 +46,5 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
+Assets/_Scripts/PlayerUnit.cs
+Assets/Animations/AC3.controller
