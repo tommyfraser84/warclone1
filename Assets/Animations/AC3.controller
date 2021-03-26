@@ -26,6 +26,7 @@ AnimatorState:
   m_MirrorParameter: 
   m_CycleOffsetParameter: 
   m_TimeParameter: 
+<<<<<<< HEAD
 --- !u!1101 &-5539355188163279405
 AnimatorStateTransition:
   m_ObjectHideFlags: 1
@@ -102,6 +103,8 @@ AnimatorState:
   m_MirrorParameter: 
   m_CycleOffsetParameter: 
   m_TimeParameter: 
+=======
+>>>>>>> parent of 14050af (animation working :D)
 --- !u!1107 &-1682743936072373550
 AnimatorStateMachine:
   serializedVersion: 5
@@ -117,6 +120,7 @@ AnimatorStateMachine:
   - serializedVersion: 1
     m_State: {fileID: 8685692586462483460}
     m_Position: {x: 502.47424, y: 236.80414, z: 0}
+<<<<<<< HEAD
   - serializedVersion: 1
     m_State: {fileID: -6069675596729648196}
     m_Position: {x: 563.1959, y: -50.927826, z: 0}
@@ -135,6 +139,8 @@ AnimatorStateMachine:
   - serializedVersion: 1
     m_State: {fileID: -2953108711869819394}
     m_Position: {x: 540, y: 390, z: 0}
+=======
+>>>>>>> parent of 14050af (animation working :D)
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
